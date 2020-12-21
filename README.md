@@ -1,4 +1,3 @@
 # hero-estudo
-teste
 
-projeto de estudo. 
+Projeto de estudo da semana omniStack 
